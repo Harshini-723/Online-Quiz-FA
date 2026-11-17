@@ -1,0 +1,5252 @@
+[
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 1,
+    "question": "Which library is used to build component-based user interfaces?",
+    "options": [
+      "React",
+      "Express",
+      "MongoDB",
+      "Node.js"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 2,
+    "question": "Which method sends data in an HTTP request body?",
+    "options": [
+      "GET",
+      "POST",
+      "HEAD",
+      "TRACE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 3,
+    "question": "Which JavaScript keyword declares a block-scoped variable?",
+    "options": [
+      "var",
+      "let",
+      "with",
+      "goto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 4,
+    "question": "Which file commonly defines npm scripts?",
+    "options": [
+      "index.html",
+      "package.json",
+      "vite.svg",
+      "robots.txt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 5,
+    "question": "Which React hook stores component state?",
+    "options": [
+      "useMemo",
+      "useRef",
+      "useState",
+      "useEffect"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 6,
+    "question": "Which protocol is commonly used by REST APIs?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 7,
+    "question": "Which Express method defines a GET route?",
+    "options": [
+      "app.get()",
+      "app.read()",
+      "app.fetch()",
+      "app.routeGet()"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 8,
+    "question": "Which database stores documents in BSON format?",
+    "options": [
+      "MySQL",
+      "MongoDB",
+      "SQLite",
+      "Redis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 9,
+    "question": "What does JSX allow developers to write?",
+    "options": [
+      "SQL in CSS",
+      "HTML-like syntax in JavaScript",
+      "Java in HTML",
+      "Python in React"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 10,
+    "question": "Which status code means a resource was created?",
+    "options": [
+      "200",
+      "201",
+      "301",
+      "404"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 11,
+    "question": "Which command installs dependencies from package.json?",
+    "options": [
+      "npm init",
+      "npm install",
+      "npm build",
+      "node install"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 12,
+    "question": "What is middleware in Express?",
+    "options": [
+      "A database table",
+      "A function in the request-response cycle",
+      "A CSS selector",
+      "A React prop"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 13,
+    "question": "Which attribute provides alternative text for an image?",
+    "options": [
+      "title",
+      "alt",
+      "srcset",
+      "role"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 14,
+    "question": "Which HTTP method is generally used to update a resource?",
+    "options": [
+      "PUT",
+      "GET",
+      "OPTIONS",
+      "CONNECT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 15,
+    "question": "What does CORS control?",
+    "options": [
+      "Database indexing",
+      "Cross-origin browser requests",
+      "CSS inheritance",
+      "Password hashing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 16,
+    "question": "Which hook runs side effects in React?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useId",
+      "useContext"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 17,
+    "question": "What is JSON primarily used for?",
+    "options": [
+      "Image compression",
+      "Data interchange",
+      "Styling",
+      "Compilation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 18,
+    "question": "Which package is commonly used to hash passwords in Node.js?",
+    "options": [
+      "bcryptjs",
+      "mongoose",
+      "cors",
+      "nodemon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 19,
+    "question": "What does CRUD stand for?",
+    "options": [
+      "Create Read Update Delete",
+      "Copy Run Upload Download",
+      "Connect Route Use Deploy",
+      "Create Render Update Display"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 20,
+    "question": "Which MongoDB method inserts one document?",
+    "options": [
+      "findOne()",
+      "insertOne()",
+      "updateOne()",
+      "deleteOne()"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 21,
+    "question": "What is a React prop?",
+    "options": [
+      "A component input",
+      "A database query",
+      "A server port",
+      "A CSS framework"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 22,
+    "question": "Which tool bundles modern frontend assets in this project?",
+    "options": [
+      "Vite",
+      "Mongoose",
+      "Nodemon",
+      "JWT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 23,
+    "question": "What does JWT stand for?",
+    "options": [
+      "Java Web Token",
+      "JSON Web Token",
+      "JavaScript Wire Transfer",
+      "Joined Web Transport"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 24,
+    "question": "Which HTML element groups form controls?",
+    "options": [
+      "<section>",
+      "<form>",
+      "<canvas>",
+      "<aside>"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 1,
+    "number": 25,
+    "question": "Why validate data on the server?",
+    "options": [
+      "Client validation can be bypassed",
+      "It improves font rendering",
+      "It replaces authentication",
+      "It removes need for a database"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 1,
+    "question": "Which file commonly defines npm scripts?",
+    "options": [
+      "index.html",
+      "package.json",
+      "vite.svg",
+      "robots.txt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 2,
+    "question": "Which React hook stores component state?",
+    "options": [
+      "useMemo",
+      "useRef",
+      "useState",
+      "useEffect"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 3,
+    "question": "Which protocol is commonly used by REST APIs?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 4,
+    "question": "Which Express method defines a GET route?",
+    "options": [
+      "app.get()",
+      "app.read()",
+      "app.fetch()",
+      "app.routeGet()"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 5,
+    "question": "Which database stores documents in BSON format?",
+    "options": [
+      "MySQL",
+      "MongoDB",
+      "SQLite",
+      "Redis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 6,
+    "question": "What does JSX allow developers to write?",
+    "options": [
+      "SQL in CSS",
+      "HTML-like syntax in JavaScript",
+      "Java in HTML",
+      "Python in React"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 7,
+    "question": "Which status code means a resource was created?",
+    "options": [
+      "200",
+      "201",
+      "301",
+      "404"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 8,
+    "question": "Which command installs dependencies from package.json?",
+    "options": [
+      "npm init",
+      "npm install",
+      "npm build",
+      "node install"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 9,
+    "question": "What is middleware in Express?",
+    "options": [
+      "A database table",
+      "A function in the request-response cycle",
+      "A CSS selector",
+      "A React prop"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 10,
+    "question": "Which attribute provides alternative text for an image?",
+    "options": [
+      "title",
+      "alt",
+      "srcset",
+      "role"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 11,
+    "question": "Which HTTP method is generally used to update a resource?",
+    "options": [
+      "PUT",
+      "GET",
+      "OPTIONS",
+      "CONNECT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 12,
+    "question": "What does CORS control?",
+    "options": [
+      "Database indexing",
+      "Cross-origin browser requests",
+      "CSS inheritance",
+      "Password hashing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 13,
+    "question": "Which hook runs side effects in React?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useId",
+      "useContext"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 14,
+    "question": "What is JSON primarily used for?",
+    "options": [
+      "Image compression",
+      "Data interchange",
+      "Styling",
+      "Compilation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 15,
+    "question": "Which package is commonly used to hash passwords in Node.js?",
+    "options": [
+      "bcryptjs",
+      "mongoose",
+      "cors",
+      "nodemon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 16,
+    "question": "What does CRUD stand for?",
+    "options": [
+      "Create Read Update Delete",
+      "Copy Run Upload Download",
+      "Connect Route Use Deploy",
+      "Create Render Update Display"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 17,
+    "question": "Which MongoDB method inserts one document?",
+    "options": [
+      "findOne()",
+      "insertOne()",
+      "updateOne()",
+      "deleteOne()"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 18,
+    "question": "What is a React prop?",
+    "options": [
+      "A component input",
+      "A database query",
+      "A server port",
+      "A CSS framework"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 19,
+    "question": "Which tool bundles modern frontend assets in this project?",
+    "options": [
+      "Vite",
+      "Mongoose",
+      "Nodemon",
+      "JWT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 20,
+    "question": "What does JWT stand for?",
+    "options": [
+      "Java Web Token",
+      "JSON Web Token",
+      "JavaScript Wire Transfer",
+      "Joined Web Transport"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 21,
+    "question": "Which HTML element groups form controls?",
+    "options": [
+      "<section>",
+      "<form>",
+      "<canvas>",
+      "<aside>"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 22,
+    "question": "Why validate data on the server?",
+    "options": [
+      "Client validation can be bypassed",
+      "It improves font rendering",
+      "It replaces authentication",
+      "It removes need for a database"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 23,
+    "question": "Which library is used to build component-based user interfaces?",
+    "options": [
+      "React",
+      "Express",
+      "MongoDB",
+      "Node.js"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 24,
+    "question": "Which method sends data in an HTTP request body?",
+    "options": [
+      "GET",
+      "POST",
+      "HEAD",
+      "TRACE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 2,
+    "number": 25,
+    "question": "Which JavaScript keyword declares a block-scoped variable?",
+    "options": [
+      "var",
+      "let",
+      "with",
+      "goto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 1,
+    "question": "Which Express method defines a GET route?",
+    "options": [
+      "app.get()",
+      "app.read()",
+      "app.fetch()",
+      "app.routeGet()"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 2,
+    "question": "Which database stores documents in BSON format?",
+    "options": [
+      "MySQL",
+      "MongoDB",
+      "SQLite",
+      "Redis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 3,
+    "question": "What does JSX allow developers to write?",
+    "options": [
+      "SQL in CSS",
+      "HTML-like syntax in JavaScript",
+      "Java in HTML",
+      "Python in React"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 4,
+    "question": "Which status code means a resource was created?",
+    "options": [
+      "200",
+      "201",
+      "301",
+      "404"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 5,
+    "question": "Which command installs dependencies from package.json?",
+    "options": [
+      "npm init",
+      "npm install",
+      "npm build",
+      "node install"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 6,
+    "question": "What is middleware in Express?",
+    "options": [
+      "A database table",
+      "A function in the request-response cycle",
+      "A CSS selector",
+      "A React prop"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 7,
+    "question": "Which attribute provides alternative text for an image?",
+    "options": [
+      "title",
+      "alt",
+      "srcset",
+      "role"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 8,
+    "question": "Which HTTP method is generally used to update a resource?",
+    "options": [
+      "PUT",
+      "GET",
+      "OPTIONS",
+      "CONNECT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 9,
+    "question": "What does CORS control?",
+    "options": [
+      "Database indexing",
+      "Cross-origin browser requests",
+      "CSS inheritance",
+      "Password hashing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 10,
+    "question": "Which hook runs side effects in React?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useId",
+      "useContext"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 11,
+    "question": "What is JSON primarily used for?",
+    "options": [
+      "Image compression",
+      "Data interchange",
+      "Styling",
+      "Compilation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 12,
+    "question": "Which package is commonly used to hash passwords in Node.js?",
+    "options": [
+      "bcryptjs",
+      "mongoose",
+      "cors",
+      "nodemon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 13,
+    "question": "What does CRUD stand for?",
+    "options": [
+      "Create Read Update Delete",
+      "Copy Run Upload Download",
+      "Connect Route Use Deploy",
+      "Create Render Update Display"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 14,
+    "question": "Which MongoDB method inserts one document?",
+    "options": [
+      "findOne()",
+      "insertOne()",
+      "updateOne()",
+      "deleteOne()"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 15,
+    "question": "What is a React prop?",
+    "options": [
+      "A component input",
+      "A database query",
+      "A server port",
+      "A CSS framework"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 16,
+    "question": "Which tool bundles modern frontend assets in this project?",
+    "options": [
+      "Vite",
+      "Mongoose",
+      "Nodemon",
+      "JWT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 17,
+    "question": "What does JWT stand for?",
+    "options": [
+      "Java Web Token",
+      "JSON Web Token",
+      "JavaScript Wire Transfer",
+      "Joined Web Transport"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 18,
+    "question": "Which HTML element groups form controls?",
+    "options": [
+      "<section>",
+      "<form>",
+      "<canvas>",
+      "<aside>"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 19,
+    "question": "Why validate data on the server?",
+    "options": [
+      "Client validation can be bypassed",
+      "It improves font rendering",
+      "It replaces authentication",
+      "It removes need for a database"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 20,
+    "question": "Which library is used to build component-based user interfaces?",
+    "options": [
+      "React",
+      "Express",
+      "MongoDB",
+      "Node.js"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 21,
+    "question": "Which method sends data in an HTTP request body?",
+    "options": [
+      "GET",
+      "POST",
+      "HEAD",
+      "TRACE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 22,
+    "question": "Which JavaScript keyword declares a block-scoped variable?",
+    "options": [
+      "var",
+      "let",
+      "with",
+      "goto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 23,
+    "question": "Which file commonly defines npm scripts?",
+    "options": [
+      "index.html",
+      "package.json",
+      "vite.svg",
+      "robots.txt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 24,
+    "question": "Which React hook stores component state?",
+    "options": [
+      "useMemo",
+      "useRef",
+      "useState",
+      "useEffect"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 3,
+    "number": 25,
+    "question": "Which protocol is commonly used by REST APIs?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 1,
+    "question": "Which status code means a resource was created?",
+    "options": [
+      "200",
+      "201",
+      "301",
+      "404"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 2,
+    "question": "Which command installs dependencies from package.json?",
+    "options": [
+      "npm init",
+      "npm install",
+      "npm build",
+      "node install"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 3,
+    "question": "What is middleware in Express?",
+    "options": [
+      "A database table",
+      "A function in the request-response cycle",
+      "A CSS selector",
+      "A React prop"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 4,
+    "question": "Which attribute provides alternative text for an image?",
+    "options": [
+      "title",
+      "alt",
+      "srcset",
+      "role"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 5,
+    "question": "Which HTTP method is generally used to update a resource?",
+    "options": [
+      "PUT",
+      "GET",
+      "OPTIONS",
+      "CONNECT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 6,
+    "question": "What does CORS control?",
+    "options": [
+      "Database indexing",
+      "Cross-origin browser requests",
+      "CSS inheritance",
+      "Password hashing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 7,
+    "question": "Which hook runs side effects in React?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useId",
+      "useContext"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 8,
+    "question": "What is JSON primarily used for?",
+    "options": [
+      "Image compression",
+      "Data interchange",
+      "Styling",
+      "Compilation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 9,
+    "question": "Which package is commonly used to hash passwords in Node.js?",
+    "options": [
+      "bcryptjs",
+      "mongoose",
+      "cors",
+      "nodemon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 10,
+    "question": "What does CRUD stand for?",
+    "options": [
+      "Create Read Update Delete",
+      "Copy Run Upload Download",
+      "Connect Route Use Deploy",
+      "Create Render Update Display"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 11,
+    "question": "Which MongoDB method inserts one document?",
+    "options": [
+      "findOne()",
+      "insertOne()",
+      "updateOne()",
+      "deleteOne()"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 12,
+    "question": "What is a React prop?",
+    "options": [
+      "A component input",
+      "A database query",
+      "A server port",
+      "A CSS framework"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 13,
+    "question": "Which tool bundles modern frontend assets in this project?",
+    "options": [
+      "Vite",
+      "Mongoose",
+      "Nodemon",
+      "JWT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 14,
+    "question": "What does JWT stand for?",
+    "options": [
+      "Java Web Token",
+      "JSON Web Token",
+      "JavaScript Wire Transfer",
+      "Joined Web Transport"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 15,
+    "question": "Which HTML element groups form controls?",
+    "options": [
+      "<section>",
+      "<form>",
+      "<canvas>",
+      "<aside>"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 16,
+    "question": "Why validate data on the server?",
+    "options": [
+      "Client validation can be bypassed",
+      "It improves font rendering",
+      "It replaces authentication",
+      "It removes need for a database"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 17,
+    "question": "Which library is used to build component-based user interfaces?",
+    "options": [
+      "React",
+      "Express",
+      "MongoDB",
+      "Node.js"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 18,
+    "question": "Which method sends data in an HTTP request body?",
+    "options": [
+      "GET",
+      "POST",
+      "HEAD",
+      "TRACE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 19,
+    "question": "Which JavaScript keyword declares a block-scoped variable?",
+    "options": [
+      "var",
+      "let",
+      "with",
+      "goto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 20,
+    "question": "Which file commonly defines npm scripts?",
+    "options": [
+      "index.html",
+      "package.json",
+      "vite.svg",
+      "robots.txt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 21,
+    "question": "Which React hook stores component state?",
+    "options": [
+      "useMemo",
+      "useRef",
+      "useState",
+      "useEffect"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 22,
+    "question": "Which protocol is commonly used by REST APIs?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 23,
+    "question": "Which Express method defines a GET route?",
+    "options": [
+      "app.get()",
+      "app.read()",
+      "app.fetch()",
+      "app.routeGet()"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 24,
+    "question": "Which database stores documents in BSON format?",
+    "options": [
+      "MySQL",
+      "MongoDB",
+      "SQLite",
+      "Redis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 4,
+    "number": 25,
+    "question": "What does JSX allow developers to write?",
+    "options": [
+      "SQL in CSS",
+      "HTML-like syntax in JavaScript",
+      "Java in HTML",
+      "Python in React"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 1,
+    "question": "Which attribute provides alternative text for an image?",
+    "options": [
+      "title",
+      "alt",
+      "srcset",
+      "role"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 2,
+    "question": "Which HTTP method is generally used to update a resource?",
+    "options": [
+      "PUT",
+      "GET",
+      "OPTIONS",
+      "CONNECT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 3,
+    "question": "What does CORS control?",
+    "options": [
+      "Database indexing",
+      "Cross-origin browser requests",
+      "CSS inheritance",
+      "Password hashing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 4,
+    "question": "Which hook runs side effects in React?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useId",
+      "useContext"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 5,
+    "question": "What is JSON primarily used for?",
+    "options": [
+      "Image compression",
+      "Data interchange",
+      "Styling",
+      "Compilation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 6,
+    "question": "Which package is commonly used to hash passwords in Node.js?",
+    "options": [
+      "bcryptjs",
+      "mongoose",
+      "cors",
+      "nodemon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 7,
+    "question": "What does CRUD stand for?",
+    "options": [
+      "Create Read Update Delete",
+      "Copy Run Upload Download",
+      "Connect Route Use Deploy",
+      "Create Render Update Display"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 8,
+    "question": "Which MongoDB method inserts one document?",
+    "options": [
+      "findOne()",
+      "insertOne()",
+      "updateOne()",
+      "deleteOne()"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 9,
+    "question": "What is a React prop?",
+    "options": [
+      "A component input",
+      "A database query",
+      "A server port",
+      "A CSS framework"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 10,
+    "question": "Which tool bundles modern frontend assets in this project?",
+    "options": [
+      "Vite",
+      "Mongoose",
+      "Nodemon",
+      "JWT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 11,
+    "question": "What does JWT stand for?",
+    "options": [
+      "Java Web Token",
+      "JSON Web Token",
+      "JavaScript Wire Transfer",
+      "Joined Web Transport"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 12,
+    "question": "Which HTML element groups form controls?",
+    "options": [
+      "<section>",
+      "<form>",
+      "<canvas>",
+      "<aside>"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 13,
+    "question": "Why validate data on the server?",
+    "options": [
+      "Client validation can be bypassed",
+      "It improves font rendering",
+      "It replaces authentication",
+      "It removes need for a database"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 14,
+    "question": "Which library is used to build component-based user interfaces?",
+    "options": [
+      "React",
+      "Express",
+      "MongoDB",
+      "Node.js"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 15,
+    "question": "Which method sends data in an HTTP request body?",
+    "options": [
+      "GET",
+      "POST",
+      "HEAD",
+      "TRACE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 16,
+    "question": "Which JavaScript keyword declares a block-scoped variable?",
+    "options": [
+      "var",
+      "let",
+      "with",
+      "goto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 17,
+    "question": "Which file commonly defines npm scripts?",
+    "options": [
+      "index.html",
+      "package.json",
+      "vite.svg",
+      "robots.txt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 18,
+    "question": "Which React hook stores component state?",
+    "options": [
+      "useMemo",
+      "useRef",
+      "useState",
+      "useEffect"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 19,
+    "question": "Which protocol is commonly used by REST APIs?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 20,
+    "question": "Which Express method defines a GET route?",
+    "options": [
+      "app.get()",
+      "app.read()",
+      "app.fetch()",
+      "app.routeGet()"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 21,
+    "question": "Which database stores documents in BSON format?",
+    "options": [
+      "MySQL",
+      "MongoDB",
+      "SQLite",
+      "Redis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 22,
+    "question": "What does JSX allow developers to write?",
+    "options": [
+      "SQL in CSS",
+      "HTML-like syntax in JavaScript",
+      "Java in HTML",
+      "Python in React"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 23,
+    "question": "Which status code means a resource was created?",
+    "options": [
+      "200",
+      "201",
+      "301",
+      "404"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 24,
+    "question": "Which command installs dependencies from package.json?",
+    "options": [
+      "npm init",
+      "npm install",
+      "npm build",
+      "node install"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "FSWD",
+    "setNumber": 5,
+    "number": 25,
+    "question": "What is middleware in Express?",
+    "options": [
+      "A database table",
+      "A function in the request-response cycle",
+      "A CSS selector",
+      "A React prop"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Full Stack Web Development concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 1,
+    "question": "Which OSI layer is responsible for routing packets?",
+    "options": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Presentation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 2,
+    "question": "Which protocol provides reliable, connection-oriented transport?",
+    "options": [
+      "UDP",
+      "TCP",
+      "IP",
+      "ARP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 3,
+    "question": "Which device forwards frames using MAC addresses?",
+    "options": [
+      "Router",
+      "Switch",
+      "Repeater",
+      "Modem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 4,
+    "question": "What is the default port for HTTP?",
+    "options": [
+      "21",
+      "25",
+      "80",
+      "443"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 5,
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      "53",
+      "110",
+      "143",
+      "443"
+    ],
+    "correctIndex": 3,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 6,
+    "question": "Which protocol resolves a domain name to an IP address?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "SNMP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 7,
+    "question": "Which protocol dynamically assigns IP configuration?",
+    "options": [
+      "ARP",
+      "DHCP",
+      "ICMP",
+      "SMTP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 8,
+    "question": "Which address identifies a network interface at Layer 2?",
+    "options": [
+      "IPv4",
+      "MAC",
+      "Port",
+      "URL"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 9,
+    "question": "How many bits are in an IPv4 address?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 10,
+    "question": "Which protocol maps an IPv4 address to a MAC address on a LAN?",
+    "options": [
+      "ARP",
+      "DNS",
+      "TLS",
+      "BGP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 11,
+    "question": "Which transport protocol is connectionless?",
+    "options": [
+      "TCP",
+      "UDP",
+      "TLS",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 12,
+    "question": "What does a router primarily connect?",
+    "options": [
+      "Files",
+      "Different networks",
+      "Only keyboards",
+      "Application windows"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 13,
+    "question": "Which subnet mask is equivalent to /24?",
+    "options": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.255"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 14,
+    "question": "Which address is a private IPv4 address?",
+    "options": [
+      "8.8.8.8",
+      "192.168.1.10",
+      "1.1.1.1",
+      "203.0.113.8"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 15,
+    "question": "Which protocol is used to test reachability with echo messages?",
+    "options": [
+      "ICMP",
+      "FTP",
+      "POP3",
+      "NTP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 16,
+    "question": "What is the purpose of a default gateway?",
+    "options": [
+      "Encrypt files",
+      "Forward traffic to other networks",
+      "Assign usernames",
+      "Render web pages"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 17,
+    "question": "Which layer handles end-to-end communication and ports?",
+    "options": [
+      "Transport",
+      "Physical",
+      "Session",
+      "Data Link"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 18,
+    "question": "What does TLS provide for HTTPS?",
+    "options": [
+      "Compression only",
+      "Encryption and authentication",
+      "IP allocation",
+      "Routing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 19,
+    "question": "Which device regenerates signals at the physical layer?",
+    "options": [
+      "Hub",
+      "Router",
+      "Firewall",
+      "Gateway"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 20,
+    "question": "Which port is commonly used by SSH?",
+    "options": [
+      "22",
+      "23",
+      "53",
+      "3389"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 21,
+    "question": "Which protocol transfers web pages?",
+    "options": [
+      "HTTP",
+      "SMTP",
+      "IMAP",
+      "ARP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 22,
+    "question": "What does NAT commonly translate?",
+    "options": [
+      "Domain names to URLs",
+      "Private and public IP addresses",
+      "MAC to usernames",
+      "Ports to files"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 23,
+    "question": "Which topology connects devices to a central switch?",
+    "options": [
+      "Bus",
+      "Ring",
+      "Star",
+      "Mesh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 24,
+    "question": "What is packet encapsulation?",
+    "options": [
+      "Adding protocol headers around data",
+      "Deleting all headers",
+      "Changing a password",
+      "Compressing a disk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 1,
+    "number": 25,
+    "question": "Which DNS record maps a hostname to an IPv4 address?",
+    "options": [
+      "MX",
+      "AAAA",
+      "A",
+      "TXT"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 1,
+    "question": "What is the default port for HTTP?",
+    "options": [
+      "21",
+      "25",
+      "80",
+      "443"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 2,
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      "53",
+      "110",
+      "143",
+      "443"
+    ],
+    "correctIndex": 3,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 3,
+    "question": "Which protocol resolves a domain name to an IP address?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "SNMP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 4,
+    "question": "Which protocol dynamically assigns IP configuration?",
+    "options": [
+      "ARP",
+      "DHCP",
+      "ICMP",
+      "SMTP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 5,
+    "question": "Which address identifies a network interface at Layer 2?",
+    "options": [
+      "IPv4",
+      "MAC",
+      "Port",
+      "URL"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 6,
+    "question": "How many bits are in an IPv4 address?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 7,
+    "question": "Which protocol maps an IPv4 address to a MAC address on a LAN?",
+    "options": [
+      "ARP",
+      "DNS",
+      "TLS",
+      "BGP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 8,
+    "question": "Which transport protocol is connectionless?",
+    "options": [
+      "TCP",
+      "UDP",
+      "TLS",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 9,
+    "question": "What does a router primarily connect?",
+    "options": [
+      "Files",
+      "Different networks",
+      "Only keyboards",
+      "Application windows"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 10,
+    "question": "Which subnet mask is equivalent to /24?",
+    "options": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.255"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 11,
+    "question": "Which address is a private IPv4 address?",
+    "options": [
+      "8.8.8.8",
+      "192.168.1.10",
+      "1.1.1.1",
+      "203.0.113.8"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 12,
+    "question": "Which protocol is used to test reachability with echo messages?",
+    "options": [
+      "ICMP",
+      "FTP",
+      "POP3",
+      "NTP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 13,
+    "question": "What is the purpose of a default gateway?",
+    "options": [
+      "Encrypt files",
+      "Forward traffic to other networks",
+      "Assign usernames",
+      "Render web pages"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 14,
+    "question": "Which layer handles end-to-end communication and ports?",
+    "options": [
+      "Transport",
+      "Physical",
+      "Session",
+      "Data Link"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 15,
+    "question": "What does TLS provide for HTTPS?",
+    "options": [
+      "Compression only",
+      "Encryption and authentication",
+      "IP allocation",
+      "Routing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 16,
+    "question": "Which device regenerates signals at the physical layer?",
+    "options": [
+      "Hub",
+      "Router",
+      "Firewall",
+      "Gateway"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 17,
+    "question": "Which port is commonly used by SSH?",
+    "options": [
+      "22",
+      "23",
+      "53",
+      "3389"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 18,
+    "question": "Which protocol transfers web pages?",
+    "options": [
+      "HTTP",
+      "SMTP",
+      "IMAP",
+      "ARP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 19,
+    "question": "What does NAT commonly translate?",
+    "options": [
+      "Domain names to URLs",
+      "Private and public IP addresses",
+      "MAC to usernames",
+      "Ports to files"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 20,
+    "question": "Which topology connects devices to a central switch?",
+    "options": [
+      "Bus",
+      "Ring",
+      "Star",
+      "Mesh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 21,
+    "question": "What is packet encapsulation?",
+    "options": [
+      "Adding protocol headers around data",
+      "Deleting all headers",
+      "Changing a password",
+      "Compressing a disk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 22,
+    "question": "Which DNS record maps a hostname to an IPv4 address?",
+    "options": [
+      "MX",
+      "AAAA",
+      "A",
+      "TXT"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 23,
+    "question": "Which OSI layer is responsible for routing packets?",
+    "options": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Presentation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 24,
+    "question": "Which protocol provides reliable, connection-oriented transport?",
+    "options": [
+      "UDP",
+      "TCP",
+      "IP",
+      "ARP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 2,
+    "number": 25,
+    "question": "Which device forwards frames using MAC addresses?",
+    "options": [
+      "Router",
+      "Switch",
+      "Repeater",
+      "Modem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 1,
+    "question": "Which protocol dynamically assigns IP configuration?",
+    "options": [
+      "ARP",
+      "DHCP",
+      "ICMP",
+      "SMTP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 2,
+    "question": "Which address identifies a network interface at Layer 2?",
+    "options": [
+      "IPv4",
+      "MAC",
+      "Port",
+      "URL"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 3,
+    "question": "How many bits are in an IPv4 address?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 4,
+    "question": "Which protocol maps an IPv4 address to a MAC address on a LAN?",
+    "options": [
+      "ARP",
+      "DNS",
+      "TLS",
+      "BGP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 5,
+    "question": "Which transport protocol is connectionless?",
+    "options": [
+      "TCP",
+      "UDP",
+      "TLS",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 6,
+    "question": "What does a router primarily connect?",
+    "options": [
+      "Files",
+      "Different networks",
+      "Only keyboards",
+      "Application windows"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 7,
+    "question": "Which subnet mask is equivalent to /24?",
+    "options": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.255"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 8,
+    "question": "Which address is a private IPv4 address?",
+    "options": [
+      "8.8.8.8",
+      "192.168.1.10",
+      "1.1.1.1",
+      "203.0.113.8"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 9,
+    "question": "Which protocol is used to test reachability with echo messages?",
+    "options": [
+      "ICMP",
+      "FTP",
+      "POP3",
+      "NTP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 10,
+    "question": "What is the purpose of a default gateway?",
+    "options": [
+      "Encrypt files",
+      "Forward traffic to other networks",
+      "Assign usernames",
+      "Render web pages"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 11,
+    "question": "Which layer handles end-to-end communication and ports?",
+    "options": [
+      "Transport",
+      "Physical",
+      "Session",
+      "Data Link"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 12,
+    "question": "What does TLS provide for HTTPS?",
+    "options": [
+      "Compression only",
+      "Encryption and authentication",
+      "IP allocation",
+      "Routing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 13,
+    "question": "Which device regenerates signals at the physical layer?",
+    "options": [
+      "Hub",
+      "Router",
+      "Firewall",
+      "Gateway"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 14,
+    "question": "Which port is commonly used by SSH?",
+    "options": [
+      "22",
+      "23",
+      "53",
+      "3389"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 15,
+    "question": "Which protocol transfers web pages?",
+    "options": [
+      "HTTP",
+      "SMTP",
+      "IMAP",
+      "ARP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 16,
+    "question": "What does NAT commonly translate?",
+    "options": [
+      "Domain names to URLs",
+      "Private and public IP addresses",
+      "MAC to usernames",
+      "Ports to files"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 17,
+    "question": "Which topology connects devices to a central switch?",
+    "options": [
+      "Bus",
+      "Ring",
+      "Star",
+      "Mesh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 18,
+    "question": "What is packet encapsulation?",
+    "options": [
+      "Adding protocol headers around data",
+      "Deleting all headers",
+      "Changing a password",
+      "Compressing a disk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 19,
+    "question": "Which DNS record maps a hostname to an IPv4 address?",
+    "options": [
+      "MX",
+      "AAAA",
+      "A",
+      "TXT"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 20,
+    "question": "Which OSI layer is responsible for routing packets?",
+    "options": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Presentation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 21,
+    "question": "Which protocol provides reliable, connection-oriented transport?",
+    "options": [
+      "UDP",
+      "TCP",
+      "IP",
+      "ARP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 22,
+    "question": "Which device forwards frames using MAC addresses?",
+    "options": [
+      "Router",
+      "Switch",
+      "Repeater",
+      "Modem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 23,
+    "question": "What is the default port for HTTP?",
+    "options": [
+      "21",
+      "25",
+      "80",
+      "443"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 24,
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      "53",
+      "110",
+      "143",
+      "443"
+    ],
+    "correctIndex": 3,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 3,
+    "number": 25,
+    "question": "Which protocol resolves a domain name to an IP address?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "SNMP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 1,
+    "question": "Which protocol maps an IPv4 address to a MAC address on a LAN?",
+    "options": [
+      "ARP",
+      "DNS",
+      "TLS",
+      "BGP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 2,
+    "question": "Which transport protocol is connectionless?",
+    "options": [
+      "TCP",
+      "UDP",
+      "TLS",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 3,
+    "question": "What does a router primarily connect?",
+    "options": [
+      "Files",
+      "Different networks",
+      "Only keyboards",
+      "Application windows"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 4,
+    "question": "Which subnet mask is equivalent to /24?",
+    "options": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.255"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 5,
+    "question": "Which address is a private IPv4 address?",
+    "options": [
+      "8.8.8.8",
+      "192.168.1.10",
+      "1.1.1.1",
+      "203.0.113.8"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 6,
+    "question": "Which protocol is used to test reachability with echo messages?",
+    "options": [
+      "ICMP",
+      "FTP",
+      "POP3",
+      "NTP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 7,
+    "question": "What is the purpose of a default gateway?",
+    "options": [
+      "Encrypt files",
+      "Forward traffic to other networks",
+      "Assign usernames",
+      "Render web pages"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 8,
+    "question": "Which layer handles end-to-end communication and ports?",
+    "options": [
+      "Transport",
+      "Physical",
+      "Session",
+      "Data Link"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 9,
+    "question": "What does TLS provide for HTTPS?",
+    "options": [
+      "Compression only",
+      "Encryption and authentication",
+      "IP allocation",
+      "Routing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 10,
+    "question": "Which device regenerates signals at the physical layer?",
+    "options": [
+      "Hub",
+      "Router",
+      "Firewall",
+      "Gateway"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 11,
+    "question": "Which port is commonly used by SSH?",
+    "options": [
+      "22",
+      "23",
+      "53",
+      "3389"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 12,
+    "question": "Which protocol transfers web pages?",
+    "options": [
+      "HTTP",
+      "SMTP",
+      "IMAP",
+      "ARP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 13,
+    "question": "What does NAT commonly translate?",
+    "options": [
+      "Domain names to URLs",
+      "Private and public IP addresses",
+      "MAC to usernames",
+      "Ports to files"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 14,
+    "question": "Which topology connects devices to a central switch?",
+    "options": [
+      "Bus",
+      "Ring",
+      "Star",
+      "Mesh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 15,
+    "question": "What is packet encapsulation?",
+    "options": [
+      "Adding protocol headers around data",
+      "Deleting all headers",
+      "Changing a password",
+      "Compressing a disk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 16,
+    "question": "Which DNS record maps a hostname to an IPv4 address?",
+    "options": [
+      "MX",
+      "AAAA",
+      "A",
+      "TXT"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 17,
+    "question": "Which OSI layer is responsible for routing packets?",
+    "options": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Presentation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 18,
+    "question": "Which protocol provides reliable, connection-oriented transport?",
+    "options": [
+      "UDP",
+      "TCP",
+      "IP",
+      "ARP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 19,
+    "question": "Which device forwards frames using MAC addresses?",
+    "options": [
+      "Router",
+      "Switch",
+      "Repeater",
+      "Modem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 20,
+    "question": "What is the default port for HTTP?",
+    "options": [
+      "21",
+      "25",
+      "80",
+      "443"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 21,
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      "53",
+      "110",
+      "143",
+      "443"
+    ],
+    "correctIndex": 3,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 22,
+    "question": "Which protocol resolves a domain name to an IP address?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "SNMP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 23,
+    "question": "Which protocol dynamically assigns IP configuration?",
+    "options": [
+      "ARP",
+      "DHCP",
+      "ICMP",
+      "SMTP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 24,
+    "question": "Which address identifies a network interface at Layer 2?",
+    "options": [
+      "IPv4",
+      "MAC",
+      "Port",
+      "URL"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 4,
+    "number": 25,
+    "question": "How many bits are in an IPv4 address?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 1,
+    "question": "Which subnet mask is equivalent to /24?",
+    "options": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.255"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 2,
+    "question": "Which address is a private IPv4 address?",
+    "options": [
+      "8.8.8.8",
+      "192.168.1.10",
+      "1.1.1.1",
+      "203.0.113.8"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 3,
+    "question": "Which protocol is used to test reachability with echo messages?",
+    "options": [
+      "ICMP",
+      "FTP",
+      "POP3",
+      "NTP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 4,
+    "question": "What is the purpose of a default gateway?",
+    "options": [
+      "Encrypt files",
+      "Forward traffic to other networks",
+      "Assign usernames",
+      "Render web pages"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 5,
+    "question": "Which layer handles end-to-end communication and ports?",
+    "options": [
+      "Transport",
+      "Physical",
+      "Session",
+      "Data Link"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 6,
+    "question": "What does TLS provide for HTTPS?",
+    "options": [
+      "Compression only",
+      "Encryption and authentication",
+      "IP allocation",
+      "Routing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 7,
+    "question": "Which device regenerates signals at the physical layer?",
+    "options": [
+      "Hub",
+      "Router",
+      "Firewall",
+      "Gateway"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 8,
+    "question": "Which port is commonly used by SSH?",
+    "options": [
+      "22",
+      "23",
+      "53",
+      "3389"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 9,
+    "question": "Which protocol transfers web pages?",
+    "options": [
+      "HTTP",
+      "SMTP",
+      "IMAP",
+      "ARP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 10,
+    "question": "What does NAT commonly translate?",
+    "options": [
+      "Domain names to URLs",
+      "Private and public IP addresses",
+      "MAC to usernames",
+      "Ports to files"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 11,
+    "question": "Which topology connects devices to a central switch?",
+    "options": [
+      "Bus",
+      "Ring",
+      "Star",
+      "Mesh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 12,
+    "question": "What is packet encapsulation?",
+    "options": [
+      "Adding protocol headers around data",
+      "Deleting all headers",
+      "Changing a password",
+      "Compressing a disk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 13,
+    "question": "Which DNS record maps a hostname to an IPv4 address?",
+    "options": [
+      "MX",
+      "AAAA",
+      "A",
+      "TXT"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 14,
+    "question": "Which OSI layer is responsible for routing packets?",
+    "options": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Presentation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 15,
+    "question": "Which protocol provides reliable, connection-oriented transport?",
+    "options": [
+      "UDP",
+      "TCP",
+      "IP",
+      "ARP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 16,
+    "question": "Which device forwards frames using MAC addresses?",
+    "options": [
+      "Router",
+      "Switch",
+      "Repeater",
+      "Modem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 17,
+    "question": "What is the default port for HTTP?",
+    "options": [
+      "21",
+      "25",
+      "80",
+      "443"
+    ],
+    "correctIndex": 2,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 18,
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      "53",
+      "110",
+      "143",
+      "443"
+    ],
+    "correctIndex": 3,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 19,
+    "question": "Which protocol resolves a domain name to an IP address?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "SNMP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 20,
+    "question": "Which protocol dynamically assigns IP configuration?",
+    "options": [
+      "ARP",
+      "DHCP",
+      "ICMP",
+      "SMTP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 21,
+    "question": "Which address identifies a network interface at Layer 2?",
+    "options": [
+      "IPv4",
+      "MAC",
+      "Port",
+      "URL"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 22,
+    "question": "How many bits are in an IPv4 address?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 23,
+    "question": "Which protocol maps an IPv4 address to a MAC address on a LAN?",
+    "options": [
+      "ARP",
+      "DNS",
+      "TLS",
+      "BGP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 24,
+    "question": "Which transport protocol is connectionless?",
+    "options": [
+      "TCP",
+      "UDP",
+      "TLS",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "CN",
+    "setNumber": 5,
+    "number": 25,
+    "question": "What does a router primarily connect?",
+    "options": [
+      "Files",
+      "Different networks",
+      "Only keyboards",
+      "Application windows"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Computer Networks concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 1,
+    "question": "A finite automaton consists of states, alphabet, transition function and what else?",
+    "options": [
+      "Stack",
+      "Start state and accepting states",
+      "Tape",
+      "Grammar only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 2,
+    "question": "Which language is accepted by a DFA?",
+    "options": [
+      "Regular language",
+      "Context-sensitive only",
+      "Unrestricted only",
+      "All languages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 3,
+    "question": "In a DFA, for each state and input symbol there is:",
+    "options": [
+      "Exactly one next state",
+      "No next state",
+      "Two next states",
+      "An arbitrary stack"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 4,
+    "question": "What does an accepting state indicate?",
+    "options": [
+      "Input is rejected",
+      "Input may be accepted if input ends there",
+      "Machine halts immediately always",
+      "Alphabet is empty"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 5,
+    "question": "Which notation commonly represents the empty string?",
+    "options": [
+      "\u2205",
+      "\u03b5",
+      "\u03a3",
+      "\u2192"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 6,
+    "question": "What is the transition function of a DFA?",
+    "options": [
+      "Q \u00d7 \u03a3 \u2192 Q",
+      "Q \u2192 \u03a3",
+      "\u03a3 \u2192 Q \u00d7 Q",
+      "Q \u00d7 Q \u2192 \u03a3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 7,
+    "question": "What does \u03a3 represent in automata theory?",
+    "options": [
+      "Set of states",
+      "Input alphabet",
+      "Transition table",
+      "Final state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 8,
+    "question": "What does Q represent?",
+    "options": [
+      "Finite set of states",
+      "Input string",
+      "Alphabet",
+      "Output tape"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 9,
+    "question": "A DFA is called deterministic because:",
+    "options": [
+      "It has infinite states",
+      "Each state-symbol pair has one transition",
+      "It uses a stack",
+      "It guesses paths"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 10,
+    "question": "Which machine recognizes regular languages?",
+    "options": [
+      "DFA",
+      "Turing machine only",
+      "LBA only",
+      "PDA only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 11,
+    "question": "What is a dead state?",
+    "options": [
+      "An accepting state",
+      "A state from which acceptance cannot be reached",
+      "The start state",
+      "A state with no label"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 12,
+    "question": "Which operation combines two regular languages and remains regular?",
+    "options": [
+      "Union",
+      "Neither union nor concatenation",
+      "Only complement is invalid",
+      "None"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 13,
+    "question": "What is the complement of a language over \u03a3?",
+    "options": [
+      "All strings in \u03a3* not in the language",
+      "Only the empty string",
+      "Only accepted strings",
+      "The alphabet itself"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 14,
+    "question": "A transition table represents:",
+    "options": [
+      "State changes for each input",
+      "Network routing",
+      "Database schema",
+      "HTML layout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 15,
+    "question": "What is the start state usually denoted by?",
+    "options": [
+      "q0",
+      "qf only",
+      "\u03a3",
+      "\u03b5"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 16,
+    "question": "Which symbol often denotes the empty language?",
+    "options": [
+      "\u03b5",
+      "\u2205",
+      "q0",
+      "\u03b4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 17,
+    "question": "A regular expression describes:",
+    "options": [
+      "Regular languages",
+      "Only context-free languages",
+      "IP routes",
+      "Database relations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 18,
+    "question": "Which automaton can have multiple transitions for one symbol?",
+    "options": [
+      "DFA",
+      "NFA",
+      "Neither",
+      "Only DFA with stack"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 19,
+    "question": "Every NFA has an equivalent:",
+    "options": [
+      "DFA",
+      "PDA only",
+      "Non-regular grammar",
+      "Network"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 20,
+    "question": "What is the language of a finite automaton?",
+    "options": [
+      "Set of strings it accepts",
+      "Its state names",
+      "Its transition labels only",
+      "Its diagram format"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 21,
+    "question": "Which state is reached after consuming the complete input?",
+    "options": [
+      "Current terminal state",
+      "Always q0",
+      "Only dead state",
+      "No state"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 22,
+    "question": "A string is accepted by a DFA if its final state is:",
+    "options": [
+      "Any state",
+      "An accepting state",
+      "The start state only",
+      "A dead state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 23,
+    "question": "What is a sink state's transition behavior?",
+    "options": [
+      "All symbols loop to itself",
+      "All symbols go to q0",
+      "No input is allowed",
+      "It accepts every string"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 24,
+    "question": "Which concept is used to prove two DFAs equivalent?",
+    "options": [
+      "Compare accepted languages",
+      "Compare colors",
+      "Compare state names only",
+      "Compare file sizes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 1,
+    "number": 25,
+    "question": "A finite automaton has:",
+    "options": [
+      "Finite number of states",
+      "Infinite memory stack",
+      "Unlimited tapes",
+      "No alphabet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 1,
+    "question": "What does an accepting state indicate?",
+    "options": [
+      "Input is rejected",
+      "Input may be accepted if input ends there",
+      "Machine halts immediately always",
+      "Alphabet is empty"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 2,
+    "question": "Which notation commonly represents the empty string?",
+    "options": [
+      "\u2205",
+      "\u03b5",
+      "\u03a3",
+      "\u2192"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 3,
+    "question": "What is the transition function of a DFA?",
+    "options": [
+      "Q \u00d7 \u03a3 \u2192 Q",
+      "Q \u2192 \u03a3",
+      "\u03a3 \u2192 Q \u00d7 Q",
+      "Q \u00d7 Q \u2192 \u03a3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 4,
+    "question": "What does \u03a3 represent in automata theory?",
+    "options": [
+      "Set of states",
+      "Input alphabet",
+      "Transition table",
+      "Final state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 5,
+    "question": "What does Q represent?",
+    "options": [
+      "Finite set of states",
+      "Input string",
+      "Alphabet",
+      "Output tape"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 6,
+    "question": "A DFA is called deterministic because:",
+    "options": [
+      "It has infinite states",
+      "Each state-symbol pair has one transition",
+      "It uses a stack",
+      "It guesses paths"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 7,
+    "question": "Which machine recognizes regular languages?",
+    "options": [
+      "DFA",
+      "Turing machine only",
+      "LBA only",
+      "PDA only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 8,
+    "question": "What is a dead state?",
+    "options": [
+      "An accepting state",
+      "A state from which acceptance cannot be reached",
+      "The start state",
+      "A state with no label"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 9,
+    "question": "Which operation combines two regular languages and remains regular?",
+    "options": [
+      "Union",
+      "Neither union nor concatenation",
+      "Only complement is invalid",
+      "None"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 10,
+    "question": "What is the complement of a language over \u03a3?",
+    "options": [
+      "All strings in \u03a3* not in the language",
+      "Only the empty string",
+      "Only accepted strings",
+      "The alphabet itself"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 11,
+    "question": "A transition table represents:",
+    "options": [
+      "State changes for each input",
+      "Network routing",
+      "Database schema",
+      "HTML layout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 12,
+    "question": "What is the start state usually denoted by?",
+    "options": [
+      "q0",
+      "qf only",
+      "\u03a3",
+      "\u03b5"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 13,
+    "question": "Which symbol often denotes the empty language?",
+    "options": [
+      "\u03b5",
+      "\u2205",
+      "q0",
+      "\u03b4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 14,
+    "question": "A regular expression describes:",
+    "options": [
+      "Regular languages",
+      "Only context-free languages",
+      "IP routes",
+      "Database relations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 15,
+    "question": "Which automaton can have multiple transitions for one symbol?",
+    "options": [
+      "DFA",
+      "NFA",
+      "Neither",
+      "Only DFA with stack"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 16,
+    "question": "Every NFA has an equivalent:",
+    "options": [
+      "DFA",
+      "PDA only",
+      "Non-regular grammar",
+      "Network"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 17,
+    "question": "What is the language of a finite automaton?",
+    "options": [
+      "Set of strings it accepts",
+      "Its state names",
+      "Its transition labels only",
+      "Its diagram format"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 18,
+    "question": "Which state is reached after consuming the complete input?",
+    "options": [
+      "Current terminal state",
+      "Always q0",
+      "Only dead state",
+      "No state"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 19,
+    "question": "A string is accepted by a DFA if its final state is:",
+    "options": [
+      "Any state",
+      "An accepting state",
+      "The start state only",
+      "A dead state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 20,
+    "question": "What is a sink state's transition behavior?",
+    "options": [
+      "All symbols loop to itself",
+      "All symbols go to q0",
+      "No input is allowed",
+      "It accepts every string"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 21,
+    "question": "Which concept is used to prove two DFAs equivalent?",
+    "options": [
+      "Compare accepted languages",
+      "Compare colors",
+      "Compare state names only",
+      "Compare file sizes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 22,
+    "question": "A finite automaton has:",
+    "options": [
+      "Finite number of states",
+      "Infinite memory stack",
+      "Unlimited tapes",
+      "No alphabet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 23,
+    "question": "A finite automaton consists of states, alphabet, transition function and what else?",
+    "options": [
+      "Stack",
+      "Start state and accepting states",
+      "Tape",
+      "Grammar only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 24,
+    "question": "Which language is accepted by a DFA?",
+    "options": [
+      "Regular language",
+      "Context-sensitive only",
+      "Unrestricted only",
+      "All languages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 2,
+    "number": 25,
+    "question": "In a DFA, for each state and input symbol there is:",
+    "options": [
+      "Exactly one next state",
+      "No next state",
+      "Two next states",
+      "An arbitrary stack"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 1,
+    "question": "What does \u03a3 represent in automata theory?",
+    "options": [
+      "Set of states",
+      "Input alphabet",
+      "Transition table",
+      "Final state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 2,
+    "question": "What does Q represent?",
+    "options": [
+      "Finite set of states",
+      "Input string",
+      "Alphabet",
+      "Output tape"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 3,
+    "question": "A DFA is called deterministic because:",
+    "options": [
+      "It has infinite states",
+      "Each state-symbol pair has one transition",
+      "It uses a stack",
+      "It guesses paths"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 4,
+    "question": "Which machine recognizes regular languages?",
+    "options": [
+      "DFA",
+      "Turing machine only",
+      "LBA only",
+      "PDA only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 5,
+    "question": "What is a dead state?",
+    "options": [
+      "An accepting state",
+      "A state from which acceptance cannot be reached",
+      "The start state",
+      "A state with no label"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 6,
+    "question": "Which operation combines two regular languages and remains regular?",
+    "options": [
+      "Union",
+      "Neither union nor concatenation",
+      "Only complement is invalid",
+      "None"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 7,
+    "question": "What is the complement of a language over \u03a3?",
+    "options": [
+      "All strings in \u03a3* not in the language",
+      "Only the empty string",
+      "Only accepted strings",
+      "The alphabet itself"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 8,
+    "question": "A transition table represents:",
+    "options": [
+      "State changes for each input",
+      "Network routing",
+      "Database schema",
+      "HTML layout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 9,
+    "question": "What is the start state usually denoted by?",
+    "options": [
+      "q0",
+      "qf only",
+      "\u03a3",
+      "\u03b5"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 10,
+    "question": "Which symbol often denotes the empty language?",
+    "options": [
+      "\u03b5",
+      "\u2205",
+      "q0",
+      "\u03b4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 11,
+    "question": "A regular expression describes:",
+    "options": [
+      "Regular languages",
+      "Only context-free languages",
+      "IP routes",
+      "Database relations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 12,
+    "question": "Which automaton can have multiple transitions for one symbol?",
+    "options": [
+      "DFA",
+      "NFA",
+      "Neither",
+      "Only DFA with stack"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 13,
+    "question": "Every NFA has an equivalent:",
+    "options": [
+      "DFA",
+      "PDA only",
+      "Non-regular grammar",
+      "Network"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 14,
+    "question": "What is the language of a finite automaton?",
+    "options": [
+      "Set of strings it accepts",
+      "Its state names",
+      "Its transition labels only",
+      "Its diagram format"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 15,
+    "question": "Which state is reached after consuming the complete input?",
+    "options": [
+      "Current terminal state",
+      "Always q0",
+      "Only dead state",
+      "No state"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 16,
+    "question": "A string is accepted by a DFA if its final state is:",
+    "options": [
+      "Any state",
+      "An accepting state",
+      "The start state only",
+      "A dead state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 17,
+    "question": "What is a sink state's transition behavior?",
+    "options": [
+      "All symbols loop to itself",
+      "All symbols go to q0",
+      "No input is allowed",
+      "It accepts every string"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 18,
+    "question": "Which concept is used to prove two DFAs equivalent?",
+    "options": [
+      "Compare accepted languages",
+      "Compare colors",
+      "Compare state names only",
+      "Compare file sizes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 19,
+    "question": "A finite automaton has:",
+    "options": [
+      "Finite number of states",
+      "Infinite memory stack",
+      "Unlimited tapes",
+      "No alphabet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 20,
+    "question": "A finite automaton consists of states, alphabet, transition function and what else?",
+    "options": [
+      "Stack",
+      "Start state and accepting states",
+      "Tape",
+      "Grammar only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 21,
+    "question": "Which language is accepted by a DFA?",
+    "options": [
+      "Regular language",
+      "Context-sensitive only",
+      "Unrestricted only",
+      "All languages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 22,
+    "question": "In a DFA, for each state and input symbol there is:",
+    "options": [
+      "Exactly one next state",
+      "No next state",
+      "Two next states",
+      "An arbitrary stack"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 23,
+    "question": "What does an accepting state indicate?",
+    "options": [
+      "Input is rejected",
+      "Input may be accepted if input ends there",
+      "Machine halts immediately always",
+      "Alphabet is empty"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 24,
+    "question": "Which notation commonly represents the empty string?",
+    "options": [
+      "\u2205",
+      "\u03b5",
+      "\u03a3",
+      "\u2192"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 3,
+    "number": 25,
+    "question": "What is the transition function of a DFA?",
+    "options": [
+      "Q \u00d7 \u03a3 \u2192 Q",
+      "Q \u2192 \u03a3",
+      "\u03a3 \u2192 Q \u00d7 Q",
+      "Q \u00d7 Q \u2192 \u03a3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 1,
+    "question": "Which machine recognizes regular languages?",
+    "options": [
+      "DFA",
+      "Turing machine only",
+      "LBA only",
+      "PDA only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 2,
+    "question": "What is a dead state?",
+    "options": [
+      "An accepting state",
+      "A state from which acceptance cannot be reached",
+      "The start state",
+      "A state with no label"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 3,
+    "question": "Which operation combines two regular languages and remains regular?",
+    "options": [
+      "Union",
+      "Neither union nor concatenation",
+      "Only complement is invalid",
+      "None"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 4,
+    "question": "What is the complement of a language over \u03a3?",
+    "options": [
+      "All strings in \u03a3* not in the language",
+      "Only the empty string",
+      "Only accepted strings",
+      "The alphabet itself"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 5,
+    "question": "A transition table represents:",
+    "options": [
+      "State changes for each input",
+      "Network routing",
+      "Database schema",
+      "HTML layout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 6,
+    "question": "What is the start state usually denoted by?",
+    "options": [
+      "q0",
+      "qf only",
+      "\u03a3",
+      "\u03b5"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 7,
+    "question": "Which symbol often denotes the empty language?",
+    "options": [
+      "\u03b5",
+      "\u2205",
+      "q0",
+      "\u03b4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 8,
+    "question": "A regular expression describes:",
+    "options": [
+      "Regular languages",
+      "Only context-free languages",
+      "IP routes",
+      "Database relations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 9,
+    "question": "Which automaton can have multiple transitions for one symbol?",
+    "options": [
+      "DFA",
+      "NFA",
+      "Neither",
+      "Only DFA with stack"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 10,
+    "question": "Every NFA has an equivalent:",
+    "options": [
+      "DFA",
+      "PDA only",
+      "Non-regular grammar",
+      "Network"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 11,
+    "question": "What is the language of a finite automaton?",
+    "options": [
+      "Set of strings it accepts",
+      "Its state names",
+      "Its transition labels only",
+      "Its diagram format"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 12,
+    "question": "Which state is reached after consuming the complete input?",
+    "options": [
+      "Current terminal state",
+      "Always q0",
+      "Only dead state",
+      "No state"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 13,
+    "question": "A string is accepted by a DFA if its final state is:",
+    "options": [
+      "Any state",
+      "An accepting state",
+      "The start state only",
+      "A dead state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 14,
+    "question": "What is a sink state's transition behavior?",
+    "options": [
+      "All symbols loop to itself",
+      "All symbols go to q0",
+      "No input is allowed",
+      "It accepts every string"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 15,
+    "question": "Which concept is used to prove two DFAs equivalent?",
+    "options": [
+      "Compare accepted languages",
+      "Compare colors",
+      "Compare state names only",
+      "Compare file sizes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 16,
+    "question": "A finite automaton has:",
+    "options": [
+      "Finite number of states",
+      "Infinite memory stack",
+      "Unlimited tapes",
+      "No alphabet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 17,
+    "question": "A finite automaton consists of states, alphabet, transition function and what else?",
+    "options": [
+      "Stack",
+      "Start state and accepting states",
+      "Tape",
+      "Grammar only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 18,
+    "question": "Which language is accepted by a DFA?",
+    "options": [
+      "Regular language",
+      "Context-sensitive only",
+      "Unrestricted only",
+      "All languages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 19,
+    "question": "In a DFA, for each state and input symbol there is:",
+    "options": [
+      "Exactly one next state",
+      "No next state",
+      "Two next states",
+      "An arbitrary stack"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 20,
+    "question": "What does an accepting state indicate?",
+    "options": [
+      "Input is rejected",
+      "Input may be accepted if input ends there",
+      "Machine halts immediately always",
+      "Alphabet is empty"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 21,
+    "question": "Which notation commonly represents the empty string?",
+    "options": [
+      "\u2205",
+      "\u03b5",
+      "\u03a3",
+      "\u2192"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 22,
+    "question": "What is the transition function of a DFA?",
+    "options": [
+      "Q \u00d7 \u03a3 \u2192 Q",
+      "Q \u2192 \u03a3",
+      "\u03a3 \u2192 Q \u00d7 Q",
+      "Q \u00d7 Q \u2192 \u03a3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 23,
+    "question": "What does \u03a3 represent in automata theory?",
+    "options": [
+      "Set of states",
+      "Input alphabet",
+      "Transition table",
+      "Final state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 24,
+    "question": "What does Q represent?",
+    "options": [
+      "Finite set of states",
+      "Input string",
+      "Alphabet",
+      "Output tape"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 4,
+    "number": 25,
+    "question": "A DFA is called deterministic because:",
+    "options": [
+      "It has infinite states",
+      "Each state-symbol pair has one transition",
+      "It uses a stack",
+      "It guesses paths"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 1,
+    "question": "What is the complement of a language over \u03a3?",
+    "options": [
+      "All strings in \u03a3* not in the language",
+      "Only the empty string",
+      "Only accepted strings",
+      "The alphabet itself"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 2,
+    "question": "A transition table represents:",
+    "options": [
+      "State changes for each input",
+      "Network routing",
+      "Database schema",
+      "HTML layout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 3,
+    "question": "What is the start state usually denoted by?",
+    "options": [
+      "q0",
+      "qf only",
+      "\u03a3",
+      "\u03b5"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 4,
+    "question": "Which symbol often denotes the empty language?",
+    "options": [
+      "\u03b5",
+      "\u2205",
+      "q0",
+      "\u03b4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 5,
+    "question": "A regular expression describes:",
+    "options": [
+      "Regular languages",
+      "Only context-free languages",
+      "IP routes",
+      "Database relations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 6,
+    "question": "Which automaton can have multiple transitions for one symbol?",
+    "options": [
+      "DFA",
+      "NFA",
+      "Neither",
+      "Only DFA with stack"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 7,
+    "question": "Every NFA has an equivalent:",
+    "options": [
+      "DFA",
+      "PDA only",
+      "Non-regular grammar",
+      "Network"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 8,
+    "question": "What is the language of a finite automaton?",
+    "options": [
+      "Set of strings it accepts",
+      "Its state names",
+      "Its transition labels only",
+      "Its diagram format"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 9,
+    "question": "Which state is reached after consuming the complete input?",
+    "options": [
+      "Current terminal state",
+      "Always q0",
+      "Only dead state",
+      "No state"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 10,
+    "question": "A string is accepted by a DFA if its final state is:",
+    "options": [
+      "Any state",
+      "An accepting state",
+      "The start state only",
+      "A dead state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 11,
+    "question": "What is a sink state's transition behavior?",
+    "options": [
+      "All symbols loop to itself",
+      "All symbols go to q0",
+      "No input is allowed",
+      "It accepts every string"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 12,
+    "question": "Which concept is used to prove two DFAs equivalent?",
+    "options": [
+      "Compare accepted languages",
+      "Compare colors",
+      "Compare state names only",
+      "Compare file sizes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 13,
+    "question": "A finite automaton has:",
+    "options": [
+      "Finite number of states",
+      "Infinite memory stack",
+      "Unlimited tapes",
+      "No alphabet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 14,
+    "question": "A finite automaton consists of states, alphabet, transition function and what else?",
+    "options": [
+      "Stack",
+      "Start state and accepting states",
+      "Tape",
+      "Grammar only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 15,
+    "question": "Which language is accepted by a DFA?",
+    "options": [
+      "Regular language",
+      "Context-sensitive only",
+      "Unrestricted only",
+      "All languages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 16,
+    "question": "In a DFA, for each state and input symbol there is:",
+    "options": [
+      "Exactly one next state",
+      "No next state",
+      "Two next states",
+      "An arbitrary stack"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 17,
+    "question": "What does an accepting state indicate?",
+    "options": [
+      "Input is rejected",
+      "Input may be accepted if input ends there",
+      "Machine halts immediately always",
+      "Alphabet is empty"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 18,
+    "question": "Which notation commonly represents the empty string?",
+    "options": [
+      "\u2205",
+      "\u03b5",
+      "\u03a3",
+      "\u2192"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 19,
+    "question": "What is the transition function of a DFA?",
+    "options": [
+      "Q \u00d7 \u03a3 \u2192 Q",
+      "Q \u2192 \u03a3",
+      "\u03a3 \u2192 Q \u00d7 Q",
+      "Q \u00d7 Q \u2192 \u03a3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 20,
+    "question": "What does \u03a3 represent in automata theory?",
+    "options": [
+      "Set of states",
+      "Input alphabet",
+      "Transition table",
+      "Final state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 21,
+    "question": "What does Q represent?",
+    "options": [
+      "Finite set of states",
+      "Input string",
+      "Alphabet",
+      "Output tape"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 22,
+    "question": "A DFA is called deterministic because:",
+    "options": [
+      "It has infinite states",
+      "Each state-symbol pair has one transition",
+      "It uses a stack",
+      "It guesses paths"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 23,
+    "question": "Which machine recognizes regular languages?",
+    "options": [
+      "DFA",
+      "Turing machine only",
+      "LBA only",
+      "PDA only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 24,
+    "question": "What is a dead state?",
+    "options": [
+      "An accepting state",
+      "A state from which acceptance cannot be reached",
+      "The start state",
+      "A state with no label"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  },
+  {
+    "subject": "FLAT",
+    "setNumber": 5,
+    "number": 25,
+    "question": "Which operation combines two regular languages and remains regular?",
+    "options": [
+      "Union",
+      "Neither union nor concatenation",
+      "Only complement is invalid",
+      "None"
+    ],
+    "correctIndex": 0,
+    "explanation": "Review the relevant Formal Languages and Automata Theory concept in your course notes."
+  }
+]

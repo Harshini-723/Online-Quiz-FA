@@ -1,0 +1,1 @@
+FLAT deliverables: transition-diagram.svg (state diagram), transition-table.svg (formatted transition table), FINITE-AUTOMATA.md (theory, embedded diagrams, transition table and implementation notes). Open the SVG files in a browser or insert them into Word.

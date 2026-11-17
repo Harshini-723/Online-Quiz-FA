@@ -1,0 +1,10 @@
+import 'dotenv/config';
+import mongoose from 'mongoose';
+import bcrypt from 'bcryptjs';
+import User from './models/User.js';
+await mongoose.connect(process.env.MONGO_URI);
+const email=(process.env.ADMIN_EMAIL||'admin@college.edu').toLowerCase();
+await User.updateOne({email},{$set:{name:process.env.ADMIN_NAME||'Project Administrator',email,password:await bcrypt.hash(process.env.ADMIN_PASSWORD||'Admin@12345',12),role:'admin'}},{upsert:true});
+console.log('Admin account seeded:',email);
+console.log('Question bank contains 15 sets × 25 questions = 375 questions.');
+await mongoose.disconnect();

@@ -1,0 +1,24 @@
+{
+  "project": "CampusQuiz - Online Quiz and Automatic Evaluation System Using Finite Automata",
+  "courses": [
+    "22ITT51-FSWD",
+    "22ITT52-CN",
+    "22ITT53-FLAT"
+  ],
+  "quizSets": 15,
+  "questionsPerSet": 25,
+  "totalQuestionRecords": 375,
+  "subjects": {
+    "FSWD": "Full Stack Web Development",
+    "CN": "Computer Networks",
+    "FLAT": "Formal Languages and Automata Theory"
+  },
+  "technology": [
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "generatedFiles": "See README.md"
+}

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="900" viewBox="0 0 1500 900"><rect width="1500" height="900" fill="#f7f9fc"/>
+<text x="750" y="58" text-anchor="middle" font-family="Arial" font-size="34" font-weight="bold" fill="#173b68">QUIZ FINITE AUTOMATON — TRANSITION TABLE</text>
+<text x="750" y="91" text-anchor="middle" font-family="Arial" font-size="17" fill="#64748b">Complete state transition function for quiz lifecycle</text>
+<rect x="85" y="140" width="220" height="62" fill="#173b68" stroke="#fff"/><text x="195.0" y="179" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#fff">CURRENT STATE</text>
+<rect x="305" y="140" width="360" height="62" fill="#173b68" stroke="#fff"/><text x="485.0" y="179" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#fff">INPUT / EVENT</text>
+<rect x="665" y="140" width="230" height="62" fill="#173b68" stroke="#fff"/><text x="780.0" y="179" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#fff">NEXT STATE</text>
+<rect x="895" y="140" width="520" height="62" fill="#173b68" stroke="#fff"/><text x="1155.0" y="179" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#fff">MEANING</text>
+<rect x="85" y="202" width="220" height="62" fill="#fff" stroke="#d8e1ec"/><text x="195.0" y="239" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">READY</text>
+<rect x="305" y="202" width="360" height="62" fill="#fff" stroke="#d8e1ec"/><text x="485.0" y="239" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">START</text>
+<rect x="665" y="202" width="230" height="62" fill="#fff" stroke="#d8e1ec"/><text x="780.0" y="239" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ACTIVE</text>
+<rect x="895" y="202" width="520" height="62" fill="#fff" stroke="#d8e1ec"/><text x="1155.0" y="239" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">Start selected quiz</text>
+<rect x="85" y="264" width="220" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="195.0" y="301" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ACTIVE</text>
+<rect x="305" y="264" width="360" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="485.0" y="301" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">NEXT</text>
+<rect x="665" y="264" width="230" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="780.0" y="301" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ACTIVE</text>
+<rect x="895" y="264" width="520" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="1155.0" y="301" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">Move to next question</text>
+<rect x="85" y="326" width="220" height="62" fill="#fff" stroke="#d8e1ec"/><text x="195.0" y="363" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ACTIVE</text>
+<rect x="305" y="326" width="360" height="62" fill="#fff" stroke="#d8e1ec"/><text x="485.0" y="363" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">PREVIOUS</text>
+<rect x="665" y="326" width="230" height="62" fill="#fff" stroke="#d8e1ec"/><text x="780.0" y="363" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ACTIVE</text>
+<rect x="895" y="326" width="520" height="62" fill="#fff" stroke="#d8e1ec"/><text x="1155.0" y="363" text-anchor="middle" font-family="Arial" font-size="15" fill="#263b57">Move to previous question</text>
+<rect x="85" y="388" width="220" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="195.0" y="425" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ACTIVE</text>
+<rect x="305" y="388" width="360" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="485.0" y="425" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">SELECT_ANSWER</text>
+<rect x="665" y="388" width="230" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="780.0" y="425" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ACTIVE</text>
+<rect x="895" y="388" width="520" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="1155.0" y="425" text-anchor="middle" font-family="Arial" font-size="15" fill="#263b57">Save or change selected option</text>
+<rect x="85" y="450" width="220" height="62" fill="#fff" stroke="#d8e1ec"/><text x="195.0" y="487" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ACTIVE</text>
+<rect x="305" y="450" width="360" height="62" fill="#fff" stroke="#d8e1ec"/><text x="485.0" y="487" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">SUBMIT</text>
+<rect x="665" y="450" width="230" height="62" fill="#fff" stroke="#d8e1ec"/><text x="780.0" y="487" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">EVALUATING</text>
+<rect x="895" y="450" width="520" height="62" fill="#fff" stroke="#d8e1ec"/><text x="1155.0" y="487" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">Submit answer sheet</text>
+<rect x="85" y="512" width="220" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="195.0" y="549" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ACTIVE</text>
+<rect x="305" y="512" width="360" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="485.0" y="549" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">TIMEOUT</text>
+<rect x="665" y="512" width="230" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="780.0" y="549" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">EVALUATING</text>
+<rect x="895" y="512" width="520" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="1155.0" y="549" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">Timer reaches zero</text>
+<rect x="85" y="574" width="220" height="62" fill="#fff" stroke="#d8e1ec"/><text x="195.0" y="611" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ACTIVE</text>
+<rect x="305" y="574" width="360" height="62" fill="#fff" stroke="#d8e1ec"/><text x="485.0" y="611" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">CANCEL</text>
+<rect x="665" y="574" width="230" height="62" fill="#fff" stroke="#d8e1ec"/><text x="780.0" y="611" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">CANCELLED</text>
+<rect x="895" y="574" width="520" height="62" fill="#fff" stroke="#d8e1ec"/><text x="1155.0" y="611" text-anchor="middle" font-family="Arial" font-size="15" fill="#263b57">Abandon current attempt</text>
+<rect x="85" y="636" width="220" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="195.0" y="673" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">EVALUATING</text>
+<rect x="305" y="636" width="360" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="485.0" y="673" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">EVALUATION_COMPLETE</text>
+<rect x="665" y="636" width="230" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="780.0" y="673" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">COMPLETED</text>
+<rect x="895" y="636" width="520" height="62" fill="#edf2f8" stroke="#d8e1ec"/><text x="1155.0" y="673" text-anchor="middle" font-family="Arial" font-size="15" fill="#263b57">Score stored; result generated</text>
+<rect x="85" y="698" width="220" height="62" fill="#fff" stroke="#d8e1ec"/><text x="195.0" y="735" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">COMPLETED</text>
+<rect x="305" y="698" width="360" height="62" fill="#fff" stroke="#d8e1ec"/><text x="485.0" y="735" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">VIEW_RESULT</text>
+<rect x="665" y="698" width="230" height="62" fill="#fff" stroke="#d8e1ec"/><text x="780.0" y="735" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">COMPLETED</text>
+<rect x="895" y="698" width="520" height="62" fill="#fff" stroke="#d8e1ec"/><text x="1155.0" y="735" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">Display result</text>
+<rect x="85" y="760" width="220" height="62" fill="#fff0ef" stroke="#d8e1ec"/><text x="195.0" y="797" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">CANCELLED</text>
+<rect x="305" y="760" width="360" height="62" fill="#fff0ef" stroke="#d8e1ec"/><text x="485.0" y="797" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">ANY EVENT</text>
+<rect x="665" y="760" width="230" height="62" fill="#fff0ef" stroke="#d8e1ec"/><text x="780.0" y="797" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">—</text>
+<rect x="895" y="760" width="520" height="62" fill="#fff0ef" stroke="#d8e1ec"/><text x="1155.0" y="797" text-anchor="middle" font-family="Arial" font-size="17" fill="#263b57">No outgoing transition</text>
+<text x="85" y="860" font-family="Arial" font-size="15" fill="#64748b">Q = {READY, ACTIVE, EVALUATING, COMPLETED, CANCELLED} · q₀ = READY · F = {COMPLETED}</text>
+</svg>
